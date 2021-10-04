@@ -1,3 +1,3 @@
 1.cualquier cosa primera linea
-2 otra cosa seguna linea
+2 otra cosa seguna linea modificada para commit
 3 tercera cosa tercera linea
